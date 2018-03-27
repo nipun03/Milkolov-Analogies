@@ -1,1 +1,3 @@
 # Milkolov-Analogies
+In this problem, we are supposed to perform Mikolov analogy test on the Mikolov analogy dataset. The Mikolov analogy test states that to predict analogy among words a simple algebraic operations can be used. Word analogy can be predicted if we are given a pair of words<a,b> and a third word c then we choose a forth word say d such that the analogy a is to b is same as c is to d. That is, the relationship between c and d should be as close as possible to that of a and b. 
+Word embedding is the collective name for a set of language modelling and feature learning techniques in natural language processing (NLP) where words or phrases from the vocabulary are mapped to vectors of real numbers.
