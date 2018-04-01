@@ -1,0 +1,9 @@
+: object-color
+blood red sun yellow
+blood red sky blue
+blood red grass green
+blood red hair black
+: sports-equipment
+cricket bat football ball
+cricket bat boxing gloves
+cricket bat pool cue
